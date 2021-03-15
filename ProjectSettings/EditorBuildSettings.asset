@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash/Splash.unity
+    guid: 8669d35dbe035f94092a5a00e658dc11
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest.unity
+    guid: a8f5c369dec795a46a7aab0ae97b5713
+  - enabled: 1
+    path: Assets/Scenes/UndergroundLab/UndergroundLab.unity
+    guid: 0c447117c3e7b5a4abdf310dba596e4e
+  - enabled: 1
+    path: Assets/Scenes/End/End.unity
+    guid: 6170de877ef29844885f85ec1c5ee826
+  m_configObjects: {}
